@@ -1,0 +1,6 @@
+This folder contains the training data consisting of 300 datasets, which are prepared by our in-house Wiener-Hopf solver 
+for duct acoustics. 
+
+Please unrar all files to restore the datasets, and then use it by CNN_V6.py. 
+
+The data is given here for demonstration. In our paper, a much larger datasets consisting of 10k various set-ups was used. 
