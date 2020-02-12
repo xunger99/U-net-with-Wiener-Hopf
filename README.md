@@ -1,9 +1,7 @@
 # U-net-with-Wiener-Hopf
 U-net with Wiener-Hopf method. 
 
-
-
-The files are prepared for the demonstration in the artile: "Deep neural networks for waves assisted by the Wiener--Hopf method", which is under consideration by Royal Society Porceedings A. The official link of this article will be updated once the paper is published. 
+The files are prepared for the demonstration in the artile: "Deep neural networks for waves assisted by the Wiener--Hopf method", which is under consideration by Royal Society Porceedings A. The official link of this article will be updated once the paper is published. The data and code shared here follow GNU General Public License v3.0. 
 
 Steps: 
 0. Install Keras, etc. 
